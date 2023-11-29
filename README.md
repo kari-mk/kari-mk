@@ -1,6 +1,6 @@
 
 # PORTFOLIO
-## Сайт "Книгарня Є"
+## "Книгарня Є"
 ### :white_check_mark: [CHECKLIST](https://docs.google.com/spreadsheets/d/15rwsFT-eN2xsFHd1iTMjEu-pdFwzt4YH/edit?usp=drive_link&ouid=105481740879973415403&rtpof=true&sd=true) 
 ### :memo: [TEST CASES](https://docs.google.com/document/d/1eEU6IAqchAW9SRXQsSGvxSDHjCSm4kY_/edit?usp=drive_link&ouid=105481740879973415403&rtpof=true&sd=true)
 ### :rotating_light: [BUG REPORTS](https://docs.google.com/document/d/1oMP1t3MqMKWisq-lP89qHE_OVGoRXxwyQSZ5xhWfF8s/edit?usp=drive_link)
